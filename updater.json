@@ -17,7 +17,7 @@
                 "socialLink": "https://github.com/abrogani"
             }
         ],
-        "id": "e666605c521e7ee",
+        "id": "bc111aa1f655c3c",
         "versionCode": 10302,
         "description": "NOTICE: This provider uses WebView to scrape content. This might lag.\n\nStream seamlessly in adjustable HD resolution (1080p) with blazing-fast loading speeds. Offers HLS media.",
         "buildUrl": "https://raw.githubusercontent.com/abrogani/automatic-sniffle/builds/FlixHQ.flx",
@@ -43,7 +43,7 @@
                 "socialLink": "https://github.com/abrogani"
             }
         ],
-        "id": "f4dfa37db6846e9",
+        "id": "c85e240a9e1a32e",
         "versionCode": 12600,
         "description": "A flixclusive adapter for Stremio addons. Torrent addons, such as Torrentio, don't work without debrid accounts.",
         "buildUrl": "https://raw.githubusercontent.com/abrogani/automatic-sniffle/builds/Stremio.flx",
@@ -73,7 +73,7 @@
                 "socialLink": "https://github.com/sussy-code"
             }
         ],
-        "id": "ec4716898b1c4d7",
+        "id": "7ece17b7c010816",
         "versionCode": 14102,
         "description": "A forked clone of the old movie-web.\n\nThis is a set of providers. All source code references belong to sudo-flix.",
         "buildUrl": "https://raw.githubusercontent.com/abrogani/automatic-sniffle/builds/Sudo-Flix.flx",
@@ -99,7 +99,7 @@
                 "socialLink": "https://github.com/abrogani"
             }
         ],
-        "id": "597d3baf33f851a",
+        "id": "e42543190b75860",
         "versionCode": 16100,
         "description": "REMINDER: This provider needs configuration to work!! Go to its provider settings and configure it there.\n\nA classic streaming service with a large library of movies and TV shows, some even in 4K. Majority of the content included on this provider offers non-HLS streaming.",
         "buildUrl": "https://raw.githubusercontent.com/abrogani/automatic-sniffle/builds/SuperStream.flx",
