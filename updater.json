@@ -1,33 +1,7 @@
 [
     {
-        "iconUrl": "https://i.imgur.com/g4FxRfl.png",
-        "repositoryUrl": "https://github.com/abrogani/automatic-sniffle",
-        "adult": false,
-        "providerType": {
-            "type": "Movies, TV Shows, etc."
-        },
-        "status": "Beta",
-        "language": {
-            "languageCode": "Multiple"
-        },
-        "authors": [
-            {
-                "image": "https://github.com/abrogani.png",
-                "name": "abrogani",
-                "socialLink": "https://github.com/abrogani"
-            }
-        ],
-        "id": "e0db05e71b0c2db",
-        "versionCode": 200,
-        "description": "This is an experimental attempt for a CloudStream adapter.",
-        "buildUrl": "https://raw.githubusercontent.com/abrogani/automatic-sniffle/builds/CodeStream.flx",
-        "changelog": "Experimental",
-        "versionName": "0.0.2",
-        "name": "CodeStream"
-    },
-    {
         "iconUrl": "https://i.imgur.com/LNtqPTi.png",
-        "repositoryUrl": "https://github.com/abrogani/automatic-sniffle",
+        "repositoryUrl": "https://github.com/iiD4x/ProvidersOLD",
         "adult": false,
         "providerType": {
             "type": "Movies, TV Shows, etc."
@@ -38,22 +12,22 @@
         },
         "authors": [
             {
-                "image": "https://github.com/abrogani.png",
-                "name": "abrogani",
-                "socialLink": "https://github.com/abrogani"
+                "image": "https://github.com/iiD4x.png",
+                "name": "defour",
+                "socialLink": "https://github.com/iiD4x"
             }
         ],
-        "id": "9b5d08275383901",
+        "id": "bc6bd61fff45fe9",
         "versionCode": 10302,
         "description": "NOTICE: This provider uses WebView to scrape content. This might lag.\n\nStream seamlessly in adjustable HD resolution (1080p) with blazing-fast loading speeds. Offers HLS media.",
-        "buildUrl": "https://raw.githubusercontent.com/abrogani/automatic-sniffle/builds/FlixHQ.flx",
+        "buildUrl": "https://raw.githubusercontent.com/iiD4x/ProvidersOLD/builds/FlixHQ.flx",
         "changelog": "# v1.0.3 - patch2\n- update compose BOM to 2024.09.02",
         "versionName": "1.0.3",
         "name": "FlixHQ"
     },
     {
         "iconUrl": "https://i.imgur.com/Hoq93zL.png",
-        "repositoryUrl": "https://github.com/abrogani/automatic-sniffle",
+        "repositoryUrl": "https://github.com/iiD4x/ProvidersOLD",
         "adult": false,
         "providerType": {
             "type": "Stremio Addons"
@@ -64,22 +38,22 @@
         },
         "authors": [
             {
-                "image": "https://github.com/abrogani.png",
-                "name": "abrogani",
-                "socialLink": "https://github.com/abrogani"
+                "image": "https://github.com/iiD4x.png",
+                "name": "defour",
+                "socialLink": "https://github.com/iiD4x"
             }
         ],
-        "id": "4d37807b37202d6",
+        "id": "d050a463a2b370e",
         "versionCode": 12600,
         "description": "A flixclusive adapter for Stremio addons. Torrent addons, such as Torrentio, don't work without debrid accounts.",
-        "buildUrl": "https://raw.githubusercontent.com/abrogani/automatic-sniffle/builds/Stremio.flx",
+        "buildUrl": "https://raw.githubusercontent.com/iiD4x/ProvidersOLD/builds/Stremio.flx",
         "changelog": "### Fixes:\n- Remove built-in opensubs-v3 addon\n- Allow subtitles addons\n- Fix default metadata loading (Cinemata)",
         "versionName": "1.2.6",
         "name": "Stremio"
     },
     {
         "iconUrl": "https://i.imgur.com/dBgb2CR.png",
-        "repositoryUrl": "https://github.com/abrogani/automatic-sniffle",
+        "repositoryUrl": "https://github.com/iiD4x/ProvidersOLD",
         "adult": false,
         "providerType": {
             "type": "Movies, TV Shows, etc."
@@ -90,22 +64,26 @@
         },
         "authors": [
             {
-                "image": "https://github.com/abrogani.png",
-                "name": "abrogani",
-                "socialLink": "https://github.com/abrogani"
+                "image": "https://github.com/iiD4x.png",
+                "name": "defour",
+                "socialLink": "https://github.com/iiD4x"
+            },
+            {
+                "name": "sussy-code",
+                "socialLink": "https://github.com/sussy-code"
             }
         ],
-        "id": "a458fc29a6a6c1b",
+        "id": "3de990b81c198ea",
         "versionCode": 14102,
         "description": "A forked clone of the old movie-web.\n\nThis is a set of providers. All source code references belong to sudo-flix.",
-        "buildUrl": "https://raw.githubusercontent.com/abrogani/automatic-sniffle/builds/Sudo-Flix.flx",
+        "buildUrl": "https://raw.githubusercontent.com/iiD4x/ProvidersOLD/builds/Sudo-Flix.flx",
         "changelog": "# 1.4.1\n\n- update compose BOM to 2024.09.02",
         "versionName": "1.4.1",
         "name": "Sudo-Flix"
     },
     {
         "iconUrl": "https://i.imgur.com/KgMakl9.png",
-        "repositoryUrl": "https://github.com/abrogani/automatic-sniffle",
+        "repositoryUrl": "https://github.com/iiD4x/ProvidersOLD",
         "adult": false,
         "providerType": {
             "type": "Movies, TV Shows, etc."
@@ -116,15 +94,15 @@
         },
         "authors": [
             {
-                "image": "https://github.com/abrogani.png",
-                "name": "abrogani",
-                "socialLink": "https://github.com/abrogani"
+                "image": "https://github.com/iiD4x.png",
+                "name": "defour",
+                "socialLink": "https://github.com/iiD4x"
             }
         ],
-        "id": "a90c57fddf878de",
+        "id": "aef213e67324250",
         "versionCode": 16101,
         "description": "REMINDER: This provider needs configuration to work!! Go to its provider settings and configure it there.\n\nA classic streaming service with a large library of movies and TV shows, some even in 4K. Majority of the content included on this provider offers non-HLS streaming.",
-        "buildUrl": "https://raw.githubusercontent.com/abrogani/automatic-sniffle/builds/SuperStream.flx",
+        "buildUrl": "https://raw.githubusercontent.com/iiD4x/ProvidersOLD/builds/SuperStream.flx",
         "changelog": "# v1.6.1\n\n- revert + update `getLinks` logic.\n- no more WebView Cloudflare interaction.\n- fix TV shows support\n\n**this might be my last update :')**",
         "versionName": "1.6.1",
         "name": "SuperStream"
