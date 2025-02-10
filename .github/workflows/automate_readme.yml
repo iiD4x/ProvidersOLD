@@ -22,7 +22,7 @@ jobs:
         run: |
           find providers -name 'build.gradle.kts' | while read -r file; do
           lib_name=$(basename "$(dirname "$file")")
-          status=$(grep -oP 'status\s*=\s*(Status\.)?\K\w+' "$file")
+          status=$(grep -oP 'status\.set\((Status\.)?\K[^\)]+' "$file")
           
           case $status in
           Status.Working|Working) status_emoji="🟢 OK";;
