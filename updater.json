@@ -18,11 +18,11 @@
             }
         ],
         "id": "e0db05e71b0c2db",
-        "versionCode": 100,
+        "versionCode": 200,
         "description": "This is an experimental attempt for a CloudStream adapter.",
         "buildUrl": "https://raw.githubusercontent.com/abrogani/automatic-sniffle/builds/CodeStream.flx",
         "changelog": "Experimental",
-        "versionName": "0.0.1",
+        "versionName": "0.0.2",
         "name": "CodeStream"
     },
     {
