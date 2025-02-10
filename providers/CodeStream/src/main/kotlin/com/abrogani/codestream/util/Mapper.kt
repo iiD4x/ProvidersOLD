@@ -1,6 +1,5 @@
 package com.abrogani.codestream.util
 
-import com.abrogani.codestream.cs.CodeStream
 import com.flixclusive.core.util.exception.safeCall
 import com.flixclusive.model.film.FilmMetadata
 import com.flixclusive.model.film.TvShow
@@ -8,6 +7,7 @@ import com.flixclusive.model.film.common.tv.Episode
 import com.flixclusive.model.provider.link.Flag
 import com.flixclusive.model.provider.link.Stream
 import com.flixclusive.model.provider.link.Subtitle
+import com.abrogani.codestream.cs.CodeStream
 import com.google.gson.Gson
 import com.lagradost.cloudstream3.SubtitleFile
 import com.lagradost.cloudstream3.utils.ExtractorLink
@@ -79,8 +79,8 @@ internal object Mapper {
         val input = SimpleDateFormat("MMMM d, yyyy", locale)
         val output = SimpleDateFormat("yyyy-MM-dd", locale)
 
+        val date = input.parse(dateString)
         return safeCall {
-            val date = input.parse(dateString)
             output.format(date!!)
         } ?: dateString
     }
