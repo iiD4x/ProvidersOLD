@@ -50,14 +50,14 @@ subprojects {
          * own github profile link
          * */
         author(
-            name = "abrogani",
-            socialLink = "https://github.com/abrogani",
-            image = "https://github.com/abrogani.png"
+            name = "defour",
+            socialLink = "https://github.com/iiD4x",
+            image = "https://github.com/iiD4x.png"
         )
         // author( ... )
         // author( ... )
 
-        setRepository("https://github.com/abrogani/automatic-sniffle")
+        setRepository("https://github.com/iiD4x/ProvidersOLD")
     }
 
     android {
